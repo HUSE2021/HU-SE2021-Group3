@@ -8,14 +8,14 @@ type question struct {
 	para
 	ans
 }
-// para 是参数
-// one 代表第一个参数
+// para
+// one
 type para struct {
 	one int
 }
 
-// ans 是答案
-// one 代表第一个答案
+// ans
+// one
 type ans struct {
 	one string
 }
